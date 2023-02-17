@@ -155,15 +155,6 @@ td.possible:hover{background: #a5bfe3;}
   bottom: 0px;
 }
 
-.shadow
-{
-  position: absolute;
-  left: 14.5%;
-  top: 0;
-  height: 100%;
-  width: 490px;
-}
-
 input.start{
   background: url('images/button.png') top repeat-x #aaaba6;
   border: 0;
